@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+
+![Alt Text](data-science-icon-animation-banner-clockwise.gif)
 
 <!--
 **mrfy/mrfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
